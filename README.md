@@ -60,7 +60,7 @@ Sliceit answers that in one line.
 ## Install
 
 ```bash
-pip install sliceit
+pip install sliceit-cli
 ```
 
 **Requirements:** Python 3.9+, works on macOS, Linux, and Windows.
